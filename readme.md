@@ -19,12 +19,11 @@ Small batch file so you can choose the browser you want when opening a URL
 Check the openurl.cmd to make sure the paths are correct, edit, add or remove
 
 Current browsers
-c: chrome
-ci: chrome incognito
-ca: canary
-cai: canary incognito
-f: firefox
-i: iexplore (32 bit)
-ii: iexplore private (32 bit)
-
+- c: chrome
+- ci: chrome incognito
+- ca: canary
+- cai: canary incognito
+- f: firefox
+- i: iexplore (32 bit)
+- ii: iexplore private (32 bit)
 
